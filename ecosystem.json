@@ -11,7 +11,7 @@
       "pid_file": "./logs/pm2_id.pid",
       "max_memory_restart": "1G",
       "autorestart": true,
-      "watch": true,
+      "watch": false,
       "ignore_watch" : ["node_modules", "files", "uploads"],
       "env": {
         "COMMON_VARIABLE": "true"
