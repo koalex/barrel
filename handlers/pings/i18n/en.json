@@ -1,0 +1,115 @@
+{
+	"GET_UTC_ERR": "get utc time error",
+	"UTC_SYNC_ERR": "UTC time synchronization error",
+	"WRONG_SYNC_CODE": "wrong time synchronization code",
+	"SWAGGER": {
+		"paths": {
+			"/pings": {
+				"post": {
+					"tags": [
+						"Pings"
+					],
+					"summary": "Sending ping data to the server",
+					"description": "Sending ping data from the controller to the server and saved in the database",
+					"parameters": {
+						"0": {
+							"description": "Data in JSON format"
+						}
+					},
+					"responses": {
+						"204": {
+							"description": "The data was successfully written to the database"
+						},
+						"400": {
+							"description": "Bad request"
+						}
+					}
+				},
+				"get": {
+					"tags": [
+						"Pings"
+					],
+					"summary": "Request pings data from database",
+					"description": "Request pings data from database",
+					"responses": {
+						"200": {
+							"description": "Array data"
+						}
+					}
+				}
+			}
+		},
+		"definitions": {
+			"Ping": {
+				"properties": {
+					"sn": {
+						"description": "controller serial number (unique)"
+					},
+					"dt": {
+						"description": "controller internal time in seconds (timestamp)"
+					},
+					"dt_c": {
+						"description": "time sync code (0, 1 or 2)"
+					},
+					"ctrl": {
+						"description": "controller info"
+					},
+					"f_s": {
+						"description": "flow sensor info"
+					}
+				}
+			},
+			"PingGet": {
+				"properties": {
+					"_id": {
+						"description": "ID records in the database"
+					},
+					"sn": {
+						"description": "controller serial number (unique)"
+					},
+					"dt": {
+						"description": "last ping time in ISO 8601 format"
+					},
+					"ctrl": {
+						"description": "controller info"
+					},
+					"f_s": {
+						"description": "flow sensor info"
+					},
+					"ip": {
+						"description": "ip address from which the data have been sent"
+					},
+					"c_dt": {
+						"description": "time in ISO 8601 when data has been recorded in a database"
+					}
+				}
+			},
+			"Controller": {
+				"properties": {
+					"fw": {
+						"description": "controller firmware version"
+					},
+					"c": {
+						"description": "chip version"
+					},
+					"b": {
+						"description": "PCB version"
+					},
+					"i_ip": {
+						"description": "controller internal ip"
+					},
+					"ssid": {
+						"description": "Service Set Identifier (SSID)"
+					}
+				}
+			},
+			"FlowSensor": {
+				"properties": {
+					"s": {
+						"description": "flow sensor settings"
+					}
+				}
+			}
+		}
+	}
+}

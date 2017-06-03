@@ -1,0 +1,32 @@
+{
+	"GET_UTC_ERR": "ошибка при получении UTC времени с удалённого сервера",
+	"UTC_SYNC_ERR": "ошибка при синхронизации времени",
+	"SWAGGER": {
+		"paths": {
+			"get": {
+				"tags": [
+					"Настройки контроллера"
+				],
+				"summary": "Запрос времени",
+				"description": "Запросить время для установки его в контроллер",
+				"responses": {
+					"200": {
+						"description": "Временная метка (timestamp)"
+					},
+					"500": {
+						"description": "Проблема с запросом временной метки"
+					}
+				}
+			}
+		},
+		"definitions": {
+			"ServerTimestamp": {
+				"properties": {
+					"ts": {
+						"description": "время в сек (timestamp)"
+					}
+				}
+			}
+		}
+	}
+}

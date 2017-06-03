@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 1780000 2819989" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+            .fil1 {opacity:0;fill:#0072BB}
+            .fil9 {opacity:0;fill:#0074BD}
+            .fil2 {opacity:0;fill:#0080CB}
+            .fil11 {opacity:0;fill:#0084CB}
+            .fil8 {opacity:0;fill:#008BD0}
+            .fil10 {opacity:0;fill:#008DD1}
+            .fil3 {opacity:0;fill:#0094D4}
+            .fil0 {opacity:0;fill:#0098DB}
+            .fil7 {opacity:0;fill:#009DE0}
+            .fil4 {opacity:0;fill:#00A3E6}
+            .fil6 {opacity:0;fill:#2FB4EC}
+            .fil5 {opacity:0;fill:#5DC9F0}
+           ]]>
+	  	</style>
+	</defs>
+	<g>
+		<circle id="logo-elem0" class="fil0" cx="890000" cy="2710004" r="110002"/>
+        <animate xlink:href="#logo-elem0" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" fill="freeze"/>
+        <circle id="logo-elem1" class="fil1" cx="890000" cy="2449995" r="110002"/>
+        <animate xlink:href="#logo-elem1" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="20ms" fill="freeze"/>
+        <circle id="logo-elem2" class="fil2" cx="890000" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem2" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="40ms" fill="freeze"/>
+        <circle id="logo-elem3" class="fil3" cx="890000" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem3" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="60ms" fill="freeze"/>
+        <circle id="logo-elem4" class="fil4" cx="890000" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem4" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="80ms" fill="freeze"/>
+        <circle id="logo-elem5" class="fil5" cx="890000" cy="1409994" r="110002"/>
+        <animate xlink:href="#logo-elem5" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="100ms" fill="freeze"/>
+        <circle id="logo-elem6" class="fil6" cx="890000" cy="1149997" r="110002"/>
+        <animate xlink:href="#logo-elem6" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="120ms" fill="freeze"/>
+        <circle id="logo-elem7" class="fil7" cx="890000" cy="889988" r="110002"/>
+        <animate xlink:href="#logo-elem7" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="140ms" fill="freeze"/>
+        <circle id="logo-elem8" class="fil8" cx="890000" cy="629991" r="110002"/>
+        <animate xlink:href="#logo-elem8" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="160ms" fill="freeze"/>
+        <circle id="logo-elem9" class="fil9" cx="890000" cy="369994" r="110002"/>
+        <animate xlink:href="#logo-elem9" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="180ms" fill="freeze"/>
+        <circle id="logo-elem10" class="fil10" cx="890000" cy="109985" r="110002"/>
+        <animate xlink:href="#logo-elem10" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="200ms" fill="freeze"/>
+        <circle id="logo-elem11" class="fil8" cx="630003" cy="629991" r="110002"/>
+        <animate xlink:href="#logo-elem11" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="220ms" fill="freeze"/>
+        <circle id="logo-elem12" class="fil8" cx="1150009" cy="629991" r="110002"/>
+        <animate xlink:href="#logo-elem12" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="240ms" fill="freeze"/>
+        <circle id="logo-elem13" class="fil7" cx="630003" cy="889988" r="110002"/>
+        <animate xlink:href="#logo-elem13" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="260ms" fill="freeze"/>
+        <circle id="logo-elem14" class="fil7" cx="1150009" cy="889988" r="110002"/>
+        <animate xlink:href="#logo-elem14" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="280ms" fill="freeze"/>
+        <circle id="logo-elem15" class="fil6" cx="370006" cy="1149997" r="110002"/>
+        <animate xlink:href="#logo-elem15" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="300ms" fill="freeze"/>
+        <circle id="logo-elem16" class="fil6" cx="630003" cy="1149997" r="110002"/>
+        <animate xlink:href="#logo-elem16" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="320ms" fill="freeze"/>
+        <circle id="logo-elem17" class="fil6" cx="1410006" cy="1149997" r="110002"/>
+        <animate xlink:href="#logo-elem17" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="340ms" fill="freeze"/>
+        <circle id="logo-elem18" class="fil6" cx="1150009" cy="1149997" r="110002"/>
+        <animate xlink:href="#logo-elem18" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="360ms" fill="freeze"/>
+        <circle id="logo-elem19" class="fil5" cx="370006" cy="1409994" r="110002"/>
+        <animate xlink:href="#logo-elem19" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="380ms" fill="freeze"/>
+        <circle id="logo-elem20" class="fil5" cx="630003" cy="1409994" r="110002"/>
+        <animate xlink:href="#logo-elem20" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="400ms" fill="freeze"/>
+        <circle id="logo-elem21" class="fil5" cx="1150009" cy="1409994" r="110002"/>
+        <animate xlink:href="#logo-elem21" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="420ms" fill="freeze"/>
+        <circle id="logo-elem22" class="fil5" cx="1410006" cy="1409994" r="110002"/>
+        <animate xlink:href="#logo-elem22" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="440ms" fill="freeze"/>
+        <circle id="logo-elem23" class="fil4" cx="109997" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem23" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="460ms" fill="freeze"/>
+        <circle id="logo-elem24" class="fil4" cx="370006" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem24" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="480ms" fill="freeze"/>
+        <circle id="logo-elem25" class="fil4" cx="630003" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem25" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="500ms" fill="freeze"/>
+        <circle id="logo-elem26" class="fil4" cx="1670004" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem26" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="520ms" fill="freeze"/>
+        <circle id="logo-elem27" class="fil4" cx="1410006" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem27" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="540ms" fill="freeze"/>
+        <circle id="logo-elem28" class="fil4" cx="1150009" cy="1669992" r="110002"/>
+        <animate xlink:href="#logo-elem28" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="560ms" fill="freeze"/>
+        <circle id="logo-elem29" class="fil3" cx="109997" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem29" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="580ms" fill="freeze"/>
+        <circle id="logo-elem30" class="fil3" cx="370006" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem30" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="600ms" fill="freeze"/>
+        <circle id="logo-elem31" class="fil3" cx="630003" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem31" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="620ms" fill="freeze"/>
+        <circle id="logo-elem32" class="fil3" cx="1150009" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem32" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="640ms" fill="freeze"/>
+        <circle id="logo-elem33" class="fil3" cx="1410006" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem33" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="660ms" fill="freeze"/>
+        <circle id="logo-elem34" class="fil3" cx="1670004" cy="1930001" r="110002"/>
+        <animate xlink:href="#logo-elem34" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="680ms" fill="freeze"/>
+        <circle id="logo-elem35" class="fil11" cx="109997" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem35" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="700ms" fill="freeze"/>
+        <circle id="logo-elem36" class="fil2" cx="370006" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem36" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="720ms" fill="freeze"/>
+        <circle id="logo-elem37" class="fil2" cx="630003" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem37" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="740ms" fill="freeze"/>
+        <circle id="logo-elem38" class="fil2" cx="1150009" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem38" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="760ms" fill="freeze"/>
+        <circle id="logo-elem39" class="fil2" cx="1410006" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem39" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="780ms" fill="freeze"/>
+        <circle id="logo-elem40" class="fil2" cx="1670004" cy="2189998" r="110002"/>
+        <animate xlink:href="#logo-elem40" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="800ms" fill="freeze"/>
+        <circle id="logo-elem41" class="fil1" cx="630003" cy="2449995" r="110002"/>
+        <animate xlink:href="#logo-elem41" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="820ms" fill="freeze"/>
+        <circle id="logo-elem42" class="fil1" cx="370006" cy="2449995" r="110002"/>
+        <animate xlink:href="#logo-elem42" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="840ms" fill="freeze"/>
+        <circle id="logo-elem43" class="fil1" cx="1150009" cy="2449995" r="110002"/>
+        <animate xlink:href="#logo-elem43" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="860ms" fill="freeze"/>
+        <circle id="logo-elem44" class="fil1" cx="1410006" cy="2449995" r="110002"/>
+        <animate xlink:href="#logo-elem44" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="880ms" fill="freeze"/>
+        <circle id="logo-elem45" class="fil0" cx="630003" cy="2710004" r="110002"/>
+        <animate xlink:href="#logo-elem45" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="900ms" fill="freeze"/>
+        <circle id="logo-elem46" class="fil0" cx="1150009" cy="2710004" r="110002"/>
+        <animate xlink:href="#logo-elem46" attributeType="CSS" attributeName="opacity" from="0" to="1" dur="1000ms" begin="920ms" fill="freeze"/>
+	</g>
+</svg>

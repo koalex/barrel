@@ -1,0 +1,86 @@
+{
+	"GET_UTC_ERR": "get utc time error",
+	"UTC_SYNC_ERR": "UTC time synchronization error",
+	"WRONG_SYNC_CODE": "wrong time synchronization code",
+	"SWAGGER": {
+		"paths": {
+			"/fills": {
+				"get": {
+					"tags": [
+						"Fills"
+					],
+					"summary": "Request fills data from database",
+					"description": "Request fills data from database",
+					"responses": {
+						"200": {
+							"description": "Array data"
+						}
+					}
+				},
+				"post": {
+					"tags": [
+						"Fills"
+					],
+					"summary": "Sending data to the server",
+					"description": "Sending data from the controller to the server and saved in the database",
+					"parameters": {
+						"0": {
+							"description": "Data in JSON format"
+						}
+					},
+					"responses": {
+						"204": {
+							"description": "The data was successfully written to the database"
+						},
+						"400": {
+							"description": "Bad request"
+						}
+					}
+				}
+			}
+		},
+		"definitions": {
+			"Fill": {
+				"properties": {
+					"sn": {
+						"description": "controller serial number (unique)"
+					},
+					"dt": {
+						"description": "filling time in seconds (timestamp)"
+					},
+					"ctrl_dt": {
+						"description": "internal controller time in seconds (timestamp)"
+					},
+					"f": {
+						"description": "filling in milliliters"
+					},
+					"dt_c": {
+						"description": "time sync code (0, 1 or 2)"
+					}
+				}
+			},
+			"FillGet": {
+				"properties": {
+					"_id": {
+						"description": "ID records in the database"
+					},
+					"sn": {
+						"description": "controller serial number (unique)"
+					},
+					"dt": {
+						"description": "filling time in ISO 8601 format"
+					},
+					"f": {
+						"description": "filling in milliliters"
+					},
+					"ip": {
+						"description": "ip address from which the data have been sent"
+					},
+					"c_dt": {
+						"description": "time in ISO 8601 when data has been recorded in a database"
+					}
+				}
+			}
+		}
+	}
+}

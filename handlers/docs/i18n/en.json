@@ -1,0 +1,26 @@
+{
+	"PAGE_TITLE": "API Documentation",
+	"SWAGGER": {
+		"info": {
+			"title": "API",
+			"description": "Documentation"
+		},
+		"tags": {
+			"0": {
+				"name": "Pings",
+				"description": "Sending pings to the server and receive"
+			},
+			"1": {
+				"name": "Controller settings",
+				"description": "Getting the controller settings from the server"
+			},
+			"2": {
+				"name": "Fills",
+				"description": "Sending data to the server about the fills and their preparation"
+			}
+		},
+		"externalDocs": {
+			"description": "Technical task"
+		}
+	}
+}

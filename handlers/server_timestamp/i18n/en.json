@@ -1,0 +1,32 @@
+{
+	"GET_UTC_ERR": "get utc time error",
+	"UTC_SYNC_ERR": "UTC time synchronization error",
+	"SWAGGER": {
+		"paths": {
+			"get": {
+				"tags": [
+					"Controller settings"
+				],
+				"summary": "UTC timestamp request",
+				"description": "UTC timestamp request for controller",
+				"responses": {
+					"200": {
+						"description": "Timestamp"
+					},
+					"500": {
+						"description": "Error during request UTC timestamp"
+					}
+				}
+			}
+		},
+		"definitions": {
+			"ServerTimestamp": {
+				"properties": {
+					"ts": {
+						"description": "Timestamp"
+					}
+				}
+			}
+		}
+	}
+}
