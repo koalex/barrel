@@ -35,7 +35,7 @@ exports.paths = () => {
                         "required": true,
                         "description": i18n.__('SWAGGER.paths./fills.post.parameters.0.description'),
                         "schema": {
-                            "$ref": "#/definitions/Fill"
+                            "$ref": "#/definitions/FillPost"
                         }
                     }
                 ],
@@ -73,36 +73,55 @@ exports.definitions = () => {
     i18n.setLocale(CLS.getNamespace('app').get('locale'));
 
     return {
-        "Fill": {
+        "FillPost": {
             "type": "object",
             "required": [
-                "sn", "dt", "ctrl_dt", "f", "dt_c"
+                "sn", "d"
             ],
             "properties": {
                 "sn": {
                     "type": "string",
                     "example": "abc-001",
-                    "description": i18n.__('SWAGGER.definitions.Fill.properties.sn.description')
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.sn.description')
                 },
+                "d": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/FillPostData"
+                    }
+                }
+            }
+        },
+        "FillPostData": {
+            "type": "object",
+            "required": [
+                "dt", "ctrl_dt", "f", "dt_c"
+            ],
+            "properties": {
                 "dt": {
                     "type": "number",
                     "example": 1480483346,
-                    "description": i18n.__('SWAGGER.definitions.Fill.properties.dt.description')
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.dt.description')
                 },
                 "ctrl_dt": {
                     "type": "number",
                     "example": 1480482337,
-                    "description": i18n.__('SWAGGER.definitions.Fill.properties.ctrl_dt.description')
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.ctrl_dt.description')
                 },
                 "f": {
                     "type": "number",
                     "example": 1000,
-                    "description": i18n.__('SWAGGER.definitions.Fill.properties.f.description')
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.f.description')
                 },
                 "dt_c": {
                     "type": "number",
                     "example": 0,
-                    "description": i18n.__('SWAGGER.definitions.Fill.properties.dt_c.description')
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.dt_c.description')
+                },
+                "err": {
+                    "type": "boolean",
+                    "example": false,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.err.description')
                 }
             }
         },

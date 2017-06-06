@@ -40,7 +40,7 @@
 			}
 		},
 		"definitions": {
-			"Fill": {
+			"FillPost": {
 				"properties": {
 					"sn": {
 						"description": "controller serial number (unique)"
@@ -56,6 +56,9 @@
 					},
 					"dt_c": {
 						"description": "time sync code (0, 1 or 2)"
+					},
+					"err": {
+						"description": "mark if fill data is bad (checks on controller by CRC). true - bad data"
 					}
 				}
 			},
