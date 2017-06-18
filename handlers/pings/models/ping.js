@@ -15,6 +15,7 @@ const pingSchema = new mongoose.Schema({
   sn: { type: String, required: true }, // серийный номер
   dt: { type: Date, required: true }, // дата и время пинга UTC
   c_dt: { type: Date, default: Date.now }, // время записи в БД
+  vcc: { type: Number }, // напряжение батареек
   ctrl: {
     type: String
     /*fw: { // firmaware

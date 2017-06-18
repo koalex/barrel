@@ -94,6 +94,11 @@ exports.definitions = () => {
                     "example": 0,
                     "description": i18n.__('SWAGGER.definitions.Ping.properties.dt_c.description')
                 },
+                "vcc": {
+                    "type": "number",
+                    "example": 4.18,
+                    "description": i18n.__('SWAGGER.definitions.Ping.properties.vcc.description')
+                },
                 "ctrl": {
                     "type": "string",
                     "example": "STA,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1",
@@ -130,6 +135,11 @@ exports.definitions = () => {
                     "type": "string",
                     "example": "2016-11-12T18:34:13.354Z",
                     "description": i18n.__('SWAGGER.definitions.PingGet.properties.dt.description')
+                },
+                "vcc": {
+                    "type": "number",
+                    "example": 4.18,
+                    "description": i18n.__('SWAGGER.definitions.PingGet.properties.vcc.description')
                 },
                 "ctrl": {
                     "type": "string",

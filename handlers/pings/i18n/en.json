@@ -51,6 +51,9 @@
 					"dt_c": {
 						"description": "time sync code (0, 1 or 2)"
 					},
+					"vcc": {
+						"description": "напряжение батареек"
+					},
 					"ctrl": {
 						"description": "controller info"
 					},
@@ -72,6 +75,9 @@
 					},
 					"ctrl": {
 						"description": "controller info"
+					},
+					"vcc": {
+						"description": "напряжение батареек"
 					},
 					"f_s": {
 						"description": "flow sensor info"
