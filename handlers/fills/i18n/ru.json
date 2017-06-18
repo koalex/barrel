@@ -48,6 +48,9 @@
 					"dt": {
 						"description": "время налива в сек. (timestamp)"
 					},
+					"vcc": {
+						"description": "напряжение батареек"
+					},
 					"ctrl_dt": {
 						"description": "время, установленное в контроллере в сек. (timestamp)"
 					},

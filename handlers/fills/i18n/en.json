@@ -48,6 +48,9 @@
 					"dt": {
 						"description": "filling time in seconds (timestamp)"
 					},
+					"vcc": {
+						"description": "напряжение батареек"
+					},
 					"ctrl_dt": {
 						"description": "internal controller time in seconds (timestamp)"
 					},

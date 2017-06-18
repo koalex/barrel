@@ -113,6 +113,11 @@ exports.definitions = () => {
                     "example": 1000,
                     "description": i18n.__('SWAGGER.definitions.FillPost.properties.f.description')
                 },
+                "vcc": {
+                    "type": "number",
+                    "example": 4.18,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.vcc.description')
+                },
                 "dt_c": {
                     "type": "number",
                     "example": 0,
