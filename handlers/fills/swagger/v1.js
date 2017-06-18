@@ -76,7 +76,7 @@ exports.definitions = () => {
         "FillPost": {
             "type": "object",
             "required": [
-                "sn", "d"
+                "sn", "dt", "ctrl_dt", "f", "dt_c"
             ],
             "properties": {
                 "sn": {
@@ -84,11 +84,35 @@ exports.definitions = () => {
                     "example": "abc-001",
                     "description": i18n.__('SWAGGER.definitions.FillPost.properties.sn.description')
                 },
-                "d": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/FillPostData"
-                    }
+                "dt": {
+                    "type": "number",
+                    "example": 1480483346,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.dt.description')
+                },
+                "ctrl_dt": {
+                    "type": "number",
+                    "example": 1480482337,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.ctrl_dt.description')
+                },
+                "f": {
+                    "type": "number",
+                    "example": 1000,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.f.description')
+                },
+                "vcc": {
+                    "type": "number",
+                    "example": 4.18,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.vcc.description')
+                },
+                "dt_c": {
+                    "type": "number",
+                    "example": 0,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.dt_c.description')
+                },
+                "err": {
+                    "type": "boolean",
+                    "example": false,
+                    "description": i18n.__('SWAGGER.definitions.FillPost.properties.err.description')
                 }
             }
         },
