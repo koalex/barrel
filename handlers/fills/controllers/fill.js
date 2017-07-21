@@ -79,6 +79,6 @@ exports.get = async ctx => {
 
     // TODO: сделать параметр для вывода наливов с ошибками
 
-    ctx.body = await Fill.find({ err: false });
+    ctx.body = await Fill.find({ err: { $exists: false } });
 
 };
