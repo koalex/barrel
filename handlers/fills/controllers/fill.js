@@ -59,6 +59,7 @@ exports.post = async ctx => {
     try {
         let newFill     = new Fill(fillsData);
             newFill.ip  = ctx.request.ip;
+            newFill.vcc = Number(newFill.vcc) + 0.6;
 
         await newFill.save();
     } catch (err) {

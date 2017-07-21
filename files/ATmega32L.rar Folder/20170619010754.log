@@ -1,0 +1,984 @@
+Terminal log file
+Date: 19.06.2017 - 1:07:57
+-----------------------------------------------
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497823824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497824124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497824424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497824724,"vcc":4.19,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497825024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497825324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497825624,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497825924,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497826224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497826524,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497826826,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497827125,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497827424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497827724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497828024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497828324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497828625,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497828924,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497829224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497829524,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497829824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497830124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+STRN
+EHTTP
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497830424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497830724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497831024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497831324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497831626,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497831924,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497832224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497832526,"vcc":4.19,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497832824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497833124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497833424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497833724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497834024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497834324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497834625,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497834924,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497835224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497835524,"vcc":4.19,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+STRN
+EHTTP
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497835824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497836124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497836424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497836728,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497837024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497837324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497837624,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497837924,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497838226,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497838524,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497838824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497839124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATPC=0,188.225.32.111,5000
+ATPT=132,1:GET /api/v1/server_timestamp HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 0
+
+ATPR=1,500
+TSO=1497839425
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497839443,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497839724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497840026,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497840324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497840624,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497840925,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497841224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497841524,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497841824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497842124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497842424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497842724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497843024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497843324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497843624,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497843924,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497844224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497844524,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497844824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497845124,"vcc":4.19,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497845424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497845724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497846024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497846324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497846625,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497846924,"vcc":4.19,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497847224,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497847524,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497847824,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497848124,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497848424,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497848724,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497849024,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497849324,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATW?
+ATPC=0,188.225.32.111,5000
+ATPT=291,1:POST /api/v1/pings HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 167
+
+{"sn":"FFFFFFFF","dt":1497849624,"vcc":4.18,"ctrl":"fw_2.0,c_RTL8710,b_2.0,Suvorova8,6,AES,05051985,00:e0:4c:87:01:22,192.168.0.8,192.168.0.1","f_s":{"s":{}},"dt_c":0}ATPR=1,500
+SS_OK:204
+ATPN="Suvorova8",05051985
+ATPC=0,188.225.32.111,5000
+ATPT=205,1:POST /api/v1/fills HTTP/1.1
+Host: 188.225.32.111:5000
+Accept: */*
+Content-Type: application/json
+Content-Length: 82
+
+{"sn":"FFFFFFFF","dt":1497849779,"ctrl_dt":1497849755,"f":497,"vcc":4.18,"dt_c":0}ATPR=1,500
+SS_OK:204

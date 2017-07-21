@@ -52,8 +52,9 @@ exports.post = async ctx => {
             ctx.throw(400, i18n.__('WRONG_SYNC_CODE'));
     }
 
-    let newPing    = new Ping(ping);
-        newPing.ip = ctx.request.ip;
+    let newPing     = new Ping(ping);
+        newPing.ip  = ctx.request.ip;
+        newPing.vcc = Number(newPing.vcc) + 0.6;
 
     await newPing.save();
 
